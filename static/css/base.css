@@ -45,7 +45,7 @@ body {
 .btn-black:active,
 .btn-black:focus {
     background: #222;
-    color: white;
+    color: white !important;
 }
 
 .text-black {
